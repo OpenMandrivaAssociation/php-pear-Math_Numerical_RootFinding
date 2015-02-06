@@ -5,7 +5,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.0a2
-Release:	1
+Release:	2
 Summary:	Numerical analysis root finding methods
 License:	PHP License
 Group:		Development/PHP
