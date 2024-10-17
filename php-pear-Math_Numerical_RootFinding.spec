@@ -9,7 +9,7 @@ Release:	2
 Summary:	Numerical analysis root finding methods
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_Numerical_RootFinding/
+URL:		https://pear.php.net/package/Math_Numerical_RootFinding/
 Source0:	http://download.pear.php.net/package/Math_Numerical_RootFinding-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
